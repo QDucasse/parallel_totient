@@ -1,0 +1,9 @@
+# Binaries
+totient
+totient_omp
+totient_mpi1
+totient_mpi2
+a.out
+
+# OS Files
+*.DS_Store
